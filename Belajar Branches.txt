@@ -5,4 +5,6 @@ Belajar Branches
   #Cara kerja Branches...
 - Apa itu branches
   #Melakukan merge dan pull.
-- Bagaimana cara membuat branches
+====================================
+Kamu akan mengembangkan ini menggunakan Java
+IDE yang digunakan bebas.
