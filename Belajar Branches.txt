@@ -5,7 +5,7 @@ Belajar Branches
   #Cara kerja Branches...
 - Apa itu branches
   #Melakukan merge dan pull.
-- Bagaimana cara membuat branches
 ====================================
 Kamu akan mengembangkan python dari sini
 Python yang digunakan adalah versi 3
+ 
