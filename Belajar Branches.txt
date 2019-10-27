@@ -8,3 +8,4 @@ Belajar Branches
 - Bagaimana cara membuat branches
 ====================================
 Kamu akan mengembangkan python dari sini
+Python yang digunakan adalah versi 3
