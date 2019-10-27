@@ -6,5 +6,6 @@ Belajar Branches
 - Apa itu branches
   #Melakukan merge dan pull.
 ====================================
-Kamu akan mengembangkan ini menggunakan Java
-IDE yang digunakan bebas.
+Kamu akan mengembangkan python dari sini
+Python yang digunakan adalah versi 3
+ 
